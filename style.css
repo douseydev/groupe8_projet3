@@ -11,6 +11,11 @@ html, body {
     padding: 0;
 }
 
+svg{
+    height: 25px;
+    margin-top: -2px;
+    
+  }
 
 
 .container {
